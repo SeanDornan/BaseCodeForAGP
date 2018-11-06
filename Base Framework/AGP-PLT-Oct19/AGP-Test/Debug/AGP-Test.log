@@ -1,0 +1,31 @@
+﻿  rt3dObjLoader.cpp
+f:\advance_graphic_programming\base framework\agp-plt-oct19\agp-test\rt3dobjloader.cpp(196): warning C4018: '<': signed/unsigned mismatch
+f:\advance_graphic_programming\base framework\agp-plt-oct19\agp-test\rt3dobjloader.cpp(134): warning C4101: 'z': unreferenced local variable
+f:\advance_graphic_programming\base framework\agp-plt-oct19\agp-test\rt3dobjloader.cpp(134): warning C4101: 'y': unreferenced local variable
+f:\advance_graphic_programming\base framework\agp-plt-oct19\agp-test\rt3dobjloader.cpp(134): warning C4101: 'x': unreferenced local variable
+  rt3d.cpp
+  md2model.cpp
+f:\advance_graphic_programming\base framework\agp-plt-oct19\agp-test\md2model.h(40): warning C4005: 'WIN32': macro redefinition
+  f:\advance_graphic_programming\base framework\agp-plt-oct19\agp-test\md2model.h(40): note: command-line arguments:  see previous definition of 'WIN32'
+f:\advance_graphic_programming\base framework\agp-plt-oct19\agp-test\md2model.cpp(106): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(207): note: see declaration of 'fopen'
+f:\advance_graphic_programming\base framework\agp-plt-oct19\agp-test\md2model.cpp(176): warning C4101: 'v': unreferenced local variable
+f:\advance_graphic_programming\base framework\agp-plt-oct19\agp-test\md2model.cpp(175): warning C4101: 's': unreferenced local variable
+f:\advance_graphic_programming\base framework\agp-plt-oct19\agp-test\md2model.cpp(176): warning C4101: 'norm': unreferenced local variable
+f:\advance_graphic_programming\base framework\agp-plt-oct19\agp-test\md2model.cpp(175): warning C4101: 't': unreferenced local variable
+f:\advance_graphic_programming\base framework\agp-plt-oct19\agp-test\md2model.cpp(338): warning C4018: '<': signed/unsigned mismatch
+  main.cpp
+f:\advance_graphic_programming\base framework\agp-plt-oct19\agp-test\md2model.h(40): warning C4005: 'WIN32': macro redefinition
+  f:\advance_graphic_programming\base framework\agp-plt-oct19\agp-test\md2model.h(40): note: command-line arguments:  see previous definition of 'WIN32'
+f:\advance_graphic_programming\base framework\agp-plt-oct19\agp-test\main.cpp(347): warning C4305: '+=': truncation from 'double' to 'float'
+f:\advance_graphic_programming\base framework\agp-plt-oct19\agp-test\main.cpp(348): warning C4305: '-=': truncation from 'double' to 'float'
+f:\advance_graphic_programming\base framework\agp-plt-oct19\agp-test\main.cpp(350): warning C4305: '-=': truncation from 'double' to 'float'
+f:\advance_graphic_programming\base framework\agp-plt-oct19\agp-test\main.cpp(351): warning C4305: '-=': truncation from 'double' to 'float'
+f:\advance_graphic_programming\base framework\agp-plt-oct19\agp-test\main.cpp(352): warning C4305: '+=': truncation from 'double' to 'float'
+f:\advance_graphic_programming\base framework\agp-plt-oct19\agp-test\main.cpp(353): warning C4305: '+=': truncation from 'double' to 'float'
+f:\advance_graphic_programming\base framework\agp-plt-oct19\agp-test\main.cpp(354): warning C4305: '+=': truncation from 'double' to 'float'
+f:\advance_graphic_programming\base framework\agp-plt-oct19\agp-test\main.cpp(355): warning C4305: '-=': truncation from 'double' to 'float'
+f:\advance_graphic_programming\base framework\agp-plt-oct19\agp-test\main.cpp(471): warning C4305: 'argument': truncation from 'double' to 'float'
+  Generating Code...
+  AGP-Test.vcxproj -> F:\Advance_Graphic_Programming\Base Framework\AGP-PLT-Oct19\Debug\AGP-Test.exe
+  AGP-Test.vcxproj -> F:\Advance_Graphic_Programming\Base Framework\AGP-PLT-Oct19\Debug\AGP-Test.pdb (Partial PDB)
